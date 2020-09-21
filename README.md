@@ -11,6 +11,7 @@
 Endpoints that return multiple records are limited too 100 results from our database in each request. Those results will get split into unique samples to comply with the Rec Water Quality Data Standard. See notes on How Surfrider records data. When there are more than 100 results available from the database, the HTTP response will contain a 'Link' header, with the formatted URL to retrieve the next set of results.
 
 Example:
+
 `
 content-length	73401
 content-type	application/json
