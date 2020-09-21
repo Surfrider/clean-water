@@ -12,11 +12,9 @@ Endpoints that return multiple records are limited too 100 results from our data
 
 Example:
 
-`
-content-length	73401  
-content-type	application/json  
-date	Mon, 21 Sep 2020 22:07:49 GMT  
-link	<https://mmvk4falrj.execute-api.us-west-2.amazonaws.com/v1/history/lab/51?offset="eyJjb2xsZWN0aW9uVGltZSI6eyJTIjoiMjAxOS0xMC0wMVQwMzozMDowMC4wMDBaIn0sInB1YmxpY2F0aW9uVGltZSI6eyJTIjoiMjAyMC0wMy0wOVQxODo0ODoyNy4wMDBaIn0sImd1aWQiOnsiUyI6IjU1MzExMTI4NyJ9LCJsYWIiOnsiTiI6IjUxIn19">; rel="next"  
-`
+`content-length	73401`  
+`content-type	application/json`  
+`date	Mon, 21 Sep 2020 22:07:49 GMT`  
+`link	<https://mmvk4falrj.execute-api.us-west-2.amazonaws.com/v1/history/lab/51?offset="eyJjb2xsZWN0aW9uVGltZSI6eyJTIjoiMjAxOS0xMC0wMVQwMzozMDowMC4wMDBaIn0sInB1YmxpY2F0aW9uVGltZSI6eyJTIjoiMjAyMC0wMy0wOVQxODo0ODoyNy4wMDBaIn0sImd1aWQiOnsiUyI6IjU1MzExMTI4NyJ9LCJsYWIiOnsiTiI6IjUxIn19">; rel="next"` 
 
 ## How Surfrider records data
