@@ -26,6 +26,8 @@ Endpoints that return multiple records are limited too 100 results from our data
 
 Example:
 
+`GET https://mmvk4falrj.execute-api.us-west-2.amazonaws.com/v1/history/lab/51`
+
 `content-length	73401`  
 `content-type	application/json`  
 `date	Mon, 21 Sep 2020 22:07:49 GMT`  
