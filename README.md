@@ -6,7 +6,7 @@ Endpoint: https://mmvk4falrj.execute-api.us-west-2.amazonaws.com/v1/history/lab/
 
 Surfrider groups testing locations around "labs", which are closely tied to the organization's chapter network. Lab IDs can be found at bwtf.surfrider.org, and chosing a location from the navigation dropdown menu. The lab ID will be the first number appended to the URL.
 
-Example: Selecting New Hampshire, the url becomes https://bwtf.surfrider.org/explore/15, and the Lab ID would be "15".
+Example: Selecting New Hampshire, the url becomes https://bwtf.surfrider.org/explore/65, and the Lab ID would be "65".
 
 ### Sites
 
